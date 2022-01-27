@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jouleffect
 - 👀 I’m interested in Machine Learning and Software Development.
-- 🌱 I’m currently learning Advanced Java Programming and CyberSecurity.
+- 🌱 I’m currently learning Complex Networks.
 - 💞️ I’m looking to some member team in M.L. competitions in Kaggle.com.
 - 📫 How to reach me : giulia.maraventano@community.unipa.it
 
