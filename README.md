@@ -42,5 +42,6 @@ Blockchain:
 ## I’m improving my knowledge of:
 - AI: Machine Learning, Deep Learning and Data Science 
 - Digital Software Development
+- Complex Networks
 - Cloud Technologies
 - Cybersecurity
