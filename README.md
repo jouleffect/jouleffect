@@ -7,13 +7,6 @@
 <p align="center"><b>Mail address </b>: giulia.maraventano@community.unipa.it</p>
 <p align="center"><b> LinkedIn </b>: https://www.linkedin.com/in/giulia-maraventano</p>
 
-
-## I’m improving my knowledge of:
-- AI: Machine Learning, Deep Learning and Data Science 
-- Digital Software Development
-- Cloud Technologies
-- Cybersecurity
-
 ## Technical Skills:
 OS:
 
@@ -45,3 +38,9 @@ Blockchain:
 - Master in Informatics @ University of Palermo (incoming)
 
 - ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+
+## I’m improving my knowledge of:
+- AI: Machine Learning, Deep Learning and Data Science 
+- Digital Software Development
+- Cloud Technologies
+- Cybersecurity
