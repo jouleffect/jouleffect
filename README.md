@@ -52,6 +52,7 @@ Blockchain:
 
 ## Professional career:
 
+- 2024 - Current : System Engineer - Expleo Group
 - 2021 : Cloud Support Engineer - Seeds S.r.l. - Palermo, IT
 - 2010 - 2020 : IT System & Network Admin - 4U Italia srl - Palermo, IT
 
